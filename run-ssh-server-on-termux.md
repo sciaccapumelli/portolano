@@ -16,7 +16,7 @@ get ip address
 
 ifconfig output parsing is an hassle
 
-...showtime!
+...SHOWTIME!
 
     sshd
 
@@ -26,11 +26,11 @@ now you can connect with
 
 Though, no, you can't. Because you don't have no password.
 
-But you CAN setup a password on termux. Just do a
+But you CAN setup a password on termux. Just do a:
 
     passwd
 
-You can also make it more interesting and use a public key. Same old dane:
+You can also make it more interesting and use a public key. Same old dance:
 
     ssh-keygen
 
